@@ -4,6 +4,10 @@
 
 > Github : [https://github.com/qiurunze123](https://github.com/qiurunze123)
 
+> 微信(阿里推荐-可帮忙推荐 与 修改简历 )：微信名称：qiurunzeaixiaoju 群人数较多 备注 年限-姓名 加我后我来拉你进群
+
+> 为大家举办这个活动 团队的人都有经验可以帮着大家修改简历 日期持续到6-18号 过后可能需要再约时间 大家看到后可加我 免费的哈！也是一个和专家沟通的机会
+
 > QQ : [3341386488](3341386488)
 
 > QQ群1(秒杀架构一群) :
@@ -28,8 +32,11 @@
 
 ### 最初版本请下载 (https://pan.baidu.com/s/1sld8RBSvLe2q4gc-Z-fVAQ)
 ### 如果想先看dubbo + zk 了解请下载we-miaosha ，miaosha-order  为项目分离示例项目！会不断完善！此版本为springboot2.0+ 请使JDK1.8+
-### start 维护 开始搭建 
+### start 维护 开始搭建  
+## 重点 --- 启动与运行 
+*** 如何搭建以及接入新思想 （新版本请进入）*** 
 
+###  [程序如何搭建新版本并运行起来](https://github.com/qiurunze123/aircrafttravel)
 > 软件环境 : 请选择稳定版 
 
 ![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaosha.png)
@@ -105,6 +112,7 @@
 #####     [mysql数据库执行计划分析（已更新）](/docs/mysql-2.md)
 #####     [mysql数据库备份和恢复(已更新)](/docs/mysql-3.md)
 #####     [mysql数据库架构变迁(已更新)](/docs/mysql-3.md)
+#####     [mysql数据库MVCC(已更新)](/docs/mysql-mvcc.md)
 --------------------------------------------------|
 #### [netty专题(已更新 by liuxiangyu)](/docs/netty.md)
 #### [linux专题](/docs/linux.md)
